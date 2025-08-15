@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "context",
+        "question"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n        You are an AI assistant.\n        Give answers to the questions from given context.\n        If context is insufficient, respond with \"I don't know.\"\n\n        {context}\n\n        Question: {question}\n        ",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}

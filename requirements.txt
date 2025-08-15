@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-core
+langchain_google_genai
+langchain-groq
+langchain-chroma
+faiss-cpu
+streamlit
+fastapi
+uvicorn
+requests
+pypdf
+pymupdf
+dotenv
+python-multipart
+
+langchain-ollama
